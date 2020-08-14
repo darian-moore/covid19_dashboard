@@ -1,4 +1,4 @@
-# Covid19 visual dashboard with Plotly Dash
+# Covid19 Visual Dashboard with Plotly Dash
 
 Curious to see a timeline of Covid19 in the U.S. I decided to start on this little dashboard project. We'll be creating an interactive choropleth map of U.S. counties with approximate Covid19 data from *The New York Times*. In addition to the choropleth map we will also be creating an interactive dashboard that will allow you to select a city and then, based off the selected city, display county and state data. The end product will look like this:
 <img align="center" src="images/end_result.png">
